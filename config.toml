@@ -1,4 +1,4 @@
-baseURL = "https://vilarion.github.io/"
+baseURL = "vilarion.github.io"
 languageCode = "en-gb"
 title = "Illarion Doc"
 theme = "hugo-theme-learn"
